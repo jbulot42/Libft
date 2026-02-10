@@ -1,8 +1,8 @@
 # Libft
 
-[![42 Francinette](https://img.shields.io/badge/42-Francinette-green)](https://profile.intra.42.fr/)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![libft-unit-test](https://img.shields.io/badge/tests-passing-brightgreen)](#)
+[![42 Francinette](https://img.shields.io/badge/42-Francinette-green)](https://profile.intra.42.fr/)  
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)  
+[![libft-unit-test](https://img.shields.io/badge/tests-passing-brightgreen)](#)  
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 ## Overview
@@ -108,8 +108,8 @@ libft/
 
 ## Author
 
-Julien BULOT (jbulot) – 42 School
-Email: jbulot@outlook.fr
+Julien BULOT (jbulot) – 42 School  
+Email: jbulot@outlook.fr  
 GitHub: https://github.com/jbulot42
 
 ---
